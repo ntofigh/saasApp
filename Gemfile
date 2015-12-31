@@ -49,6 +49,9 @@ gem 'figaro', '1.0.0'
 # Use paperclip for image uploads
 gem 'paperclip', '4.2.1'
 
+# autoprefixes for css bootstrap sass
+gem 'autoprefixer-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 

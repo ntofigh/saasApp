@@ -1,3 +1,13 @@
+/* users show page styles */
+.user-show-avatar {
+    height: 128px;
+    width: 128px;
+    border-radius: 50%;
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         1px 1px 5px 0px rgba(50, 50, 50, 0.75);
+}
+
 .job_title_icon {
     display: inline-block;
     width: 30px;
@@ -27,4 +37,14 @@
 .well.contact-info{
     border-color: #46b8da;
     background-color: #5bc0de;
+}
+
+/* users index page styles */
+.user-index-avatar {
+    border-radius: 50%;
+
+}
+
+.well.white-bg{
+    background-color: #fff;
 }
